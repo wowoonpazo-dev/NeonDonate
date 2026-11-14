@@ -1,0 +1,11 @@
+name: NeonDonate
+version: 1.0
+main: ru.imperium.neon.NeonDonate
+api-version: '1.21'
+author: Imperium
+description: Неоновые донаты с меню
+commands:
+  neon:
+    description: Открыть меню неона
+    usage: /neon
+    permission: neon.admin
